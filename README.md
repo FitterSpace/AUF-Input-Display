@@ -1,5 +1,5 @@
 # AUF-Input-Display
-A GameCube input display for BizHawk, designed for 007: Agent Under Fire
+A GameCube input display for BizHawk, designed for 007: Agent Under Fire. It works for normal gameplay as well as TAS replays.
 ![Screenshot 2024-04-10 193224](https://github.com/FitterSpace/AUF-Input-Display/assets/22065181/ed0f5d99-15ad-4937-95a9-455d510daeff)
 
 ## Usage
